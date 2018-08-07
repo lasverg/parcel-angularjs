@@ -1,5 +1,5 @@
 {
-  "name": "parcel-sandbox",
+  "name": "parcel-angularjs",
   "version": "1.0.0",
   "description": "Simple Parcel Sandbox",
   "main": "index.html",
@@ -12,5 +12,6 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
-  }
+  },
+  "keywords": []
 }
